@@ -59,8 +59,6 @@ python processor.py
 - Claude API failures return 500 with descriptive error message
 - All requests and errors logged to terminal with timestamps
 
-## Demo
-[paste your demo screenshot or video link here]
 
 ## Screenshots
 [https://imgur.com/xihRBGo]
